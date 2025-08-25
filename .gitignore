@@ -1,0 +1,26 @@
+# Build output
+bin/
+obj/
+
+# Rider-specific files
+.idea/
+.vs/
+
+# NuGet packages (for older project types)
+packages/
+
+# User-specific files
+*.user
+*.suo
+
+# Temporary files
+*.log
+*.tmp
+
+# Test results
+TestResults/
+
+# Debug and release artifacts
+*.pdb
+*.dll
+*.exe

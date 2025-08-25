@@ -1,25 +1,32 @@
 {
   "format": 1,
   "restore": {
-    "/home/tulinho/RiderProjects/ConsoleApp1/ConsoleApp1/ConsoleApp1.csproj": {}
+    "C:\\Users\\rafae\\RiderProjects\\Features\\Dependency Injection\\ConsoleApp1\\ConsoleApp1.csproj": {}
   },
   "projects": {
-    "/home/tulinho/RiderProjects/ConsoleApp1/ConsoleApp1/ConsoleApp1.csproj": {
+    "C:\\Users\\rafae\\RiderProjects\\Features\\Dependency Injection\\ConsoleApp1\\ConsoleApp1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/tulinho/RiderProjects/ConsoleApp1/ConsoleApp1/ConsoleApp1.csproj",
+        "projectUniqueName": "C:\\Users\\rafae\\RiderProjects\\Features\\Dependency Injection\\ConsoleApp1\\ConsoleApp1.csproj",
         "projectName": "ConsoleApp1",
-        "projectPath": "/home/tulinho/RiderProjects/ConsoleApp1/ConsoleApp1/ConsoleApp1.csproj",
-        "packagesPath": "/home/tulinho/.nuget/packages/",
-        "outputPath": "/home/tulinho/RiderProjects/ConsoleApp1/ConsoleApp1/obj/",
+        "projectPath": "C:\\Users\\rafae\\RiderProjects\\Features\\Dependency Injection\\ConsoleApp1\\ConsoleApp1.csproj",
+        "packagesPath": "C:\\Users\\rafae\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\rafae\\RiderProjects\\Features\\Dependency Injection\\ConsoleApp1\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "/home/tulinho/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\rafae\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -37,7 +44,8 @@
           "enableAudit": "true",
           "auditLevel": "low",
           "auditMode": "direct"
-        }
+        },
+        "SdkAnalysisLevel": "9.0.300"
       },
       "frameworks": {
         "net8.0": {
@@ -58,7 +66,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/home/tulinho/.dotnet/sdk/8.0.406/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.304/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
